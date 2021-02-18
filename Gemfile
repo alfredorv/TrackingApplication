@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'httparty', '~> 0.18.1'
 gem 'rspec', '~> 3.10'
+gem 'fedex', '~> 3.10', '>= 3.10.11'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
