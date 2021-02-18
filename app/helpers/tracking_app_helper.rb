@@ -1,0 +1,2 @@
+module TrackingAppHelper
+end
